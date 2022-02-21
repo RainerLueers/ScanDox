@@ -1,7 +1,6 @@
 ---
 title: ScanDox
 ---  
-![](scandox_logo.png)
 
 ScanDox scannt schnell all Ihre Dokumente mit minimalen Einstellungen. Nach dem
 Scannen können Sie den Scan direkt mit wenigen Klicks speichern und in der zugehörigen
