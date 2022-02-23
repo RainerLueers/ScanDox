@@ -26,4 +26,4 @@ Sie können ScanDox kostenlos herunterladen und nutzen.
 ScanDox is completely free to use for both individuals and businesses,
 and includes no ads or unwanted software.
 
-![](scan_spruch.png)
+it's all fun until someone misses a scan ;-)
