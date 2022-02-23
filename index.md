@@ -11,6 +11,14 @@ durchgeführt werden.
 ![](scandox_fenster01.png)  
 *Das Hauptfenster*  
 
+## Systemvoraussetzungen
+
+ScanDox wurde in Java mit dem JDK 17.01 programmiert und kann in jeder Umgebung ausgeführt
+werden, die ein Java Runtime Environment (JRE) der Version 17.01 oder höher bereitstellt.
+ScanDox wurde unter **Ubuntu 21.10** und **Windows 10** erfolgreich getestet.
+
+## Download
+
 Sie können ScanDox kostenlos herunterladen und nutzen.
 
 <a href="ScanDox_install.zip">ScanDox downloaden</a>  
